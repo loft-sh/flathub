@@ -10,7 +10,7 @@ backoff==2.2.1
     # via gql
 certifi==2024.7.4
     # via requests
-cffi==1.16.0
+cffi==2.0.0
     # via
     #   cryptography
     #   pygit2
@@ -40,7 +40,7 @@ pygithub==2.3.0
     # via -r requirements.in
 pyjwt[crypto]==2.8.0
     # via pygithub
-pynacl==1.5.0
+pynacl==1.6.2
     # via pygithub
 pyyaml==6.0.1
     # via -r requirements.in
